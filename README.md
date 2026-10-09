@@ -24,3 +24,7 @@ This renders:
 :-) :-( :-/ 
 
 ---
+
+#### More adding and learning
+
+##### Bingo
